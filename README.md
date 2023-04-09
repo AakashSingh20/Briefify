@@ -5,11 +5,11 @@ Briefify is a web application that gives summary of any meeting provided. It use
 
 - Duration of the meeting.
 
-- Action list within the tarnscript.
+- Action list within the transcript.
 
 - Summary of the meet.
 
-- Summary translation in any global scripted language.
+- Summary translation in any globally scripted language.
 
 - Storage functionalities for previous video uploads and the previous generated summaries.
 
