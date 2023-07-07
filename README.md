@@ -61,6 +61,8 @@ In order to run this project you will need the following Libraries.
 
  8. NLTK
 
+ 9. Google Trans
+
   
 
 
@@ -119,6 +121,11 @@ pip install nltk
 4. Django:
 ```bash
 pip install django
+```
+
+5. Google Trans:
+```bash
+pip install googletrans
 ```
 
 
